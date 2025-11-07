@@ -66,7 +66,29 @@ Insérez votre texte ici.
 
 ### 3.3. Analyse exploratoire des données (AED)
 
-Insérez votre texte ici.
+Nous analyserons ici quelques variables sur les moyens de transport des Ottaviens. Afin de déterminer quelle est l’heure de pointe dans les différents quartiers de la Ville d’Ottawa, nous avons recensé l’heure de départ la plus fréquente pour chacun des quartiers de la ville. Voici les résultats : 
+
+**Tableau croisé**
+
+**Carte**
+
+Nous pouvons remarquer qu’à part pour les trois quartiers les plus près du centre-ville et pour Kanata-Nord, l’heure de départ la plus fréquente des Ottaviens est entre 7 h et 7 h 59. J’émets pour l’instant l’hypothèse que la majorité des gens habitants Kanata-Nord y travaillent, en raison du hub de technologie et de recherche qui s’y trouve.
+
+Les gens auraient donc une moins grande distance à parcourir pour se rendre au travail. Ce pourrait également être le cas pour le centre-ville et ses édifices gouvernementaux et ses sièges sociaux. Le tout est à confirmer dans une analyse plus poussée. Nous pourrions analyser les sections sur l’industrie de travail de la population du jeu de données pour ce faire ou interroger des organisations (syndicats, associations de quartiers) locales.
+
+Ensuite, nous souhaitons explorer à quel point les différents quartiers sont dépendants de l’automobile. En jetant un coup d’oeil rapide au tableau des données du recensement, nous pouvons remarquer que l’automobile est le moyen de transport le plus fréquent dans tous les quartiers, en proportions différentes. Les voici : 
+
+**Tableau croisé**
+
+
+
+**Carte**
+
+Nous pouvons constater que plus les Ottaviens habitent près du centre-ville, moins ils se déplacent en voiture.
+
+Dans le quartier Sommerset (14) par exemple, c’est environ 40 % de la population qui se déplace en auto. Cette proportion dépasse 93 % dans les quartiers les plus éloignés (5, 20 et 21).
+
+Il pourrait être intéressant de comparer ces données avec l’offre de transport en commun et de pistes cyclables pour trouver quels sont les facteurs qui encourage l’utilisation de l’automobile, du vélo ou de la marche pour se déplacer.
 
 **Cette section doit inclure une capture d'écran de votre tableau croisé dynamique, comme ceci :**
 

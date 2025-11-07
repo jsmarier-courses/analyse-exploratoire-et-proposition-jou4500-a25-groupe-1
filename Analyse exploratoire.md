@@ -73,6 +73,8 @@ Nous analyserons ici quelques variables sur les moyens de transport des Ottavien
 *Figure 1 : Ce tableau croisé dynamique montre l'heure de départ la plus fréquente des Ottaviens par quartier.*
 
 **Carte**
+![](carte-1.png)<br>
+*Figure 2 : Cette carte montre quelle est l'heure de départ la plus fréquente dans les différents quartiers d'Ottawa.*
 
 Nous pouvons remarquer qu’à part pour les trois quartiers les plus près du centre-ville et pour Kanata-Nord, l’heure de départ la plus fréquente des Ottaviens est entre 7 h et 7 h 59. J’émets pour l’instant l’hypothèse que la majorité des gens habitants Kanata-Nord y travaillent, en raison du hub de technologie et de recherche qui s’y trouve.
 
@@ -82,25 +84,17 @@ Ensuite, nous souhaitons explorer à quel point les différents quartiers sont d
 
 **Tableau croisé**
 ![](Tableau croisé dynamique 2.png)<br>
-*Figure 2 : Ce tableau croisé dynamique montre la proportion d'automobilistes par quartier.*
+*Figure 3 : Ce tableau croisé dynamique montre la proportion d'automobilistes par quartier.*
 
 **Carte**
+![](carte-2.png)<br>
+*Figure 4 : Cette carte montre la proportion d'automobilistes par quartier.*
 
 Nous pouvons constater que plus les Ottaviens habitent près du centre-ville, moins ils se déplacent en voiture.
 
 Dans le quartier Sommerset (14) par exemple, c’est environ 40 % de la population qui se déplace en auto. Cette proportion dépasse 93 % dans les quartiers les plus éloignés (5, 20 et 21).
 
 Il pourrait être intéressant de comparer ces données avec l’offre de transport en commun et de pistes cyclables pour trouver quels sont les facteurs qui encourage l’utilisation de l’automobile, du vélo ou de la marche pour se déplacer.
-
-**Cette section doit inclure une capture d'écran de votre tableau croisé dynamique, comme ceci :**
-
-![](pivot-table-screen-capture.png)<br>
-*Figure 2 : Ce tableau croisé dynamique montre...*
-
-**Cette section doit aussi inclure une capture d'écran de votre graphique exploratoire, comme ceci :**
-
-![](chart-screen-capture.png)<br>
-*Figure 3 : Ce graphique exploratoire montre...*
 
 ## 4. Récit potentiel
 

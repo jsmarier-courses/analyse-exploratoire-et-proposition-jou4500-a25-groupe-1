@@ -98,7 +98,13 @@ Il pourrait être intéressant de comparer ces données avec l’offre de transp
 
 ## 4. Récit potentiel
 
-Insérez votre texte ici.
+Les données de la première analyse nous servent de point de départ afin de déterminer l’heure de pointe à Ottawa. Nous savons maintenant que la majorité des Ottaviens partent le matin entre 7 h et 7 h 59.
+
+C’est le cas dans la plupart des quartiers. Cette analyse manque cependant de contexte pour en faire une histoire complète. L’heure de pointe matinale ne se résume pas à l’heure de départ, mais aussi au moyen de transport utilisé, à la distance à parcourir pour se rendre au travail et dépend également de la situation géographiqe des différents pôles d’emploi de la ville.
+
+Le jeu de données peut répondre à certaines de ces questions. Nous l’avons vu dans la deuxième analyse sur l’utilisation de l’autombile selon les quartiers. Pour en savoir davantage sur le déroulement de l’heure de pointe, nous pourrions également interroger un chroniqueur à la circulation. Le travail de ces personnes consiste généralement à rapporter les événements qui se produisent sur le réseau routier dans les médias (surtout à la radio) et connaissent donc très bien les habitudes de déplacement des gens de leur région.
+
+L’heure de pointe est également vécue différemment selon si l’on vit au centre-ville ou en périphérie, ou encore si on est un usager du transport en commun ou un automobiliste. Il serait donc intéressant d’intéroger des représentants d’association d’usagers du transport en commun comme [le groupe des usagers de transport en commun d'Ottawa](https://www.ottawatransitriders.ca/about) (Le groupe des usagers de transport en commun d'Ottawa, n.d.) ou encore une association d’un quartier où l’heure de pointe est particulièrement dense pour les automobilistes. À Stitsville par exemple, un automobiliste rapporte dans [le Ottawa Citizens devoir attendre jusqu’à 90 minutes dans la circulation sur l’autoroute 417](https://ottawacitizen.com/feature/why-is-traffic-so-bad-on-highway-417-in-ottawa) (Baldin, 2025). Selon cet article, des travaux de construction sur l’autoroute seraient notamment en cause. La qualité du service d’OC Transpo et le retour au bureau des fonctionnaires est également mentionné. On pourrait également questionner des syndicats de fonctionnaires fédéraux. [Ces derniers avaient exprimé des craintes lors de l’annonce du retour au bureau trois jours par semaine](https://ici.radio-canada.ca/nouvelle/2102251/retour-bureau-fonctionnaire-oc-transpo-sto-ottawa-gatineau) (Côté-Sroka, 2024) quant aux transports à l’heure de pointe, selon cet article de Radio-Canada.
 
 ## 5. Conclusion
 
@@ -106,8 +112,13 @@ Insérez votre texte ici.
 
 ## 6. Références
 
-Veuillez inclure une liste de vos références ici. Assurez-vous de suivre les [normes APA pour les références](https://apastyle.apa.org/style-grammar-guidelines/references). Les retraits négatifs (*hanging paragraphs*) ne sont pas nécessaires. Le [guide sur l'adaptation APA](https://arts.uottawa.ca/lettres/sites/arts.uottawa.ca.lettres/files/cartu-outils-de-redaction-adaptation-apa.pdf) de l'Université d'Ottawa pourrait également vous être utile.
+Baldin, N. (2025, October 29). *Why is traffic so bad on Highway 417 in Ottawa?* Ottawa Citizen. Retrieved November 7, 2025, from https://ottawacitizen.com/feature/why-is-traffic-so-bad-on-highway-417-in-ottawa
+
+Côté-Sroka, E. (2024, September 5). *Plus de jours au bureau, mais pas plus d’autobus pour les fonctionnaires.* Radio-Canada. Retrieved November 7, 2025, from https://ici.radio-canada.ca/nouvelle/2102251/retour-bureau-fonctionnaire-oc-transpo-sto-ottawa-gatineau
+
+Le groupe des usagers de transport en commun d'Ottawa. (n.d.). *À propos de nous.* https://www.ottawatransitriders.ca/. https://www.ottawatransitriders.ca/about
 
 **Voici un exemple :**
 
 Bounegru, L., & Gray, J. (Eds.). (2021). *The Data Journalism Handbook 2: Towards A Critical Data Practice*. Amsterdam University Press. [https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma991022890087305153](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma991022890087305153)
+

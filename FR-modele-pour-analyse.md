@@ -27,6 +27,23 @@ Pour créer une liste non ordonnée, il suffit de mettre une étoile (`*`) devan
 Insérez votre texte ici.
 
 ## 2. Obtenir les données
+J’ai importé le document contenant les données dans une nouvelle feuille de calcul dans Google Sheets. Une fois l’importation complétée, la feuille a été générée automatiquement. Celle-ci comprend 2 603 lignes et 26 colonnes de A à Z. À première analyse, toutes les données paraissent arrondies à la demi-dizaine, les données apparaissent propres, il n’y a aucun doublon, mais il y a tout de même des espaces blancs en surplus.
+ 
+Heure de départ - Variables ordinales (Intervalles de temps)
+Les rangées 2589 à 2595, qui énumèrent les intervalles d’heures de départ, par exemple entre 5 h et 5 h 59 ou encore entre midi et 4 h 59, contiennent des variables ordinales.
+Ces catégories peuvent être organisées dans un ordre logique croissant (du plus tôt au plus tard). Toutefois, les différences entre les groupes ne sont pas nécessairement uniformes.
+ 
+Principal mode de transport - Variables nominales
+Les rangées 2575 à la 2582 rangée, montre la variable de principal mode de transport pour la population active occupée de 15 ans et plus. Ces rangées représentent des catégories distinctes, sans hiérarchie naturelle, purement descriptives. Une variable nominale sert à identifier un nom, une étiquette ou une catégorie sans relation d’ordre entre les valeurs (par exemple : automobile, transport en commun, marche). (Statistics Canada, 2021)
+ 
+Quartiers d’étude - Variables nominales
+Les colonnes géographiques qui correspondent aux quartiers d’étude représentent une variable nominale. Chaque quartier par exemple, Orléans-Ouest-Innes - Quartier 2 et Gloucester-Southgate - Quartier 10 permet de regrouper les données en fonction de régions géographiques spécifiques. Ces catégories n’ont pas d’ordre hiérarchique ni de valeur numérique inhérente.
+ 
+Un aspect intéressant à noter est que la liste des quartiers dans les données du jeu manque le quartier numéro 13, passant directement du 12 au 14. Le quartier de Rideau-Rockcliffe n’est pas associé à un numéro.
+ 
+Question après avoir examiné les données brutes.
+ 
+-   Quels sont les secteurs où habitent les fonctionnaires de la fonction publique à Ottawa (centre-ville, banlieue ou zone rurale) ? En outre, quelles sont les tendances en matière d’heures de départ et de temps de trajet quotidien par quartier pour se rendre au travail, ce qui permettrait de déterminer les heures de pointe dans la ville ?
 
 Utilisez deux croisillons (`##`) pour créer un intertitre de niveau 2 comme celui-ci.
 

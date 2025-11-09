@@ -79,7 +79,24 @@ Comme l'affirme Cairo (2016), une visualisation de données doit être véridiqu
 
 ### 3.2. Nettoyage des données
 
-Insérez votre texte ici.
+Méthode 1 : Regroupement (Clustering) dans OpenRefine
+J’ai utilisé la fonction Clustering dans OpenRefine afin de détecter des doublures ou variations orthographiques dans la colonne « Population active selon l’industrie »
+Le logiciel a indiqué le message suivant : « No clusters were found with the selected method. »
+Cela signifie que les données de cette colonne étaient déjà uniformes et ne contenaient pas de valeurs presque identiques.
+ 
+Méthode 2 : Outil de nettoyage des données dans Google Sheets
+J’ai utilisé la fonction « donnée », puis « nettoyé les données » dans Google Sheets afin de repérer des doublures, espaces inutiles ou incohérences dans le jeu de données
+L’outil n’a proposé aucune suggestion de nettoyage pour les pages 1, 2 et 4, ce qui indique que ces tableaux étaient déjà bien formatés et cohérents.
+Cependant, les pages 3 (Principal mode transport), 5 (Toutes les professions) et 6 (Population active selon l’industrie) contenaient des cellules avec des espaces blanc.
+Pour régler ce problème, j’ai utilisé la fonction DÉCOUPER, qui permet d’éliminer les espaces en début, en fin ou en double au sein d’un texte.
+Après avoir appliqué cette fonction sur l’ensemble des cellules concernées, les valeurs ont été nettoyées. Cette étape a permis de rendre uniforme les données et de prévenir d’éventuelles erreurs lors de nos prochaines étapes
+J’ai également utilisé l’outil de « statistiques des données » afin de m’assurer qu’aucune erreur n’avait été faite lors des étapes précédentes de nettoyage.
+ 
+Méthode 3 : Figer les lignes et les colonnes pour faciliter la vérification
+Afin de faciliter la navigation dans le jeu de données et d’assurer une vérification exacte, j’ai utilisé la fonction « Affichage ensuite figer 1 ligne et 1 colonne » dans Google Sheets.
+Cette option permet de garder visibles les en-têtes de colonnes et les identifiants de rangée lors du défilement du tableau.
+Cette méthode ne modifie pas les données, mais elle améliore la vérification visuelle de nos données
+
 
 ### 3.3. Analyse exploratoire des données (AED)
 

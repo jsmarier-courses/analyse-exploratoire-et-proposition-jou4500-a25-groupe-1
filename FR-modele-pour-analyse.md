@@ -81,8 +81,8 @@ Comme l'affirme Cairo (2016), une visualisation de données doit être véridiqu
 
 Méthode 1 : Regroupement (Clustering) dans OpenRefine
 J’ai utilisé la fonction Clustering dans OpenRefine afin de détecter des doublures ou variations orthographiques dans la colonne « Population active selon l’industrie »
-Le logiciel a indiqué le message suivant : « No clusters were found with the selected method. »
-Cela signifie que les données de cette colonne étaient déjà uniformes et ne contenaient pas de valeurs presque identiques.
+J’ai sélectionné la cellule à nettoyer, puis j’ai choisi l’option Édit cells, ensuite Clusters and edits, et enfin l’option Cluster. Le logiciel a alors affiché le message suivant : « No clusters were found with the selected method. » Cela signifie que les données de cette colonne étaient déjà uniformes et ne contenaient pas de valeurs presque identiques.
+
  
 Méthode 2 : Outil de nettoyage des données dans Google Sheets
 J’ai utilisé la fonction « donnée », puis « nettoyé les données » dans Google Sheets afin de repérer des doublures, espaces inutiles ou incohérences dans le jeu de données

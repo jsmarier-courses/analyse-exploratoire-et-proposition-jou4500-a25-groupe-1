@@ -5,23 +5,6 @@
 
 # Analyse exploratoire de données (AED) et proposition
 
-Utilisez un croisillon (`#`) pour créer un intertitre de niveau 1 comme celui-ci.
-
-## Avant-propos
-
-Pour ce travail, vous devez extraire des données d’un site Internet ou d’une base de données. Vous devez ensuite nettoyer et analyser votre jeu de données, trouver une histoire potentielle et créer une visualisation. Votre travail doit clairement expliquer votre processus. Vous devez écrire environ 1500 à 2000 mots et inclure des captures d’écran montrant les différentes étapes de votre analyse. Votre travail doit être rédigé avec le format Markdown et être publié sur GitHub.
-
-J'assigne différentes versions de ce projet à mes étudiants en journalisme numérique et en « data storytelling » depuis déjà quelques années. La structure générale de ce travail est basée sur celle du [*Guide du datajournalisme*](http://jplusplus.github.io/guide-du-datajournalisme/index.html). La présente version est également inspirée du programme [Key Capabilities in Data Science](https://extendedlearning.ubc.ca/programs/key-capabilities-data-science) offert par l'Université de la Colombie-Britannique (UBC).
-
-**Voici quelques ressources utiles pour ce travail :**
-
-* [Page *Syntaxe de base pour l’écriture et la mise en forme* de GitHub](https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-* [Le répertoire modèle pour ce projet au cas où vous effaceriez quelque chose par accident](https://github.com/jsmarier/jou4100_jou4500_mpad2003_project2_template)
-
-Avez-vous remarqué comment créer un hyperlien? En langage Markdown, on met le texte cliquable entre une paire de crochets et l'adresse URL entre parenthèses.
-
-Pour créer une liste non ordonnée, il suffit de mettre une étoile (`*`) devant chaque item.
-
 ## 1. Introduction
 
 Dans le cadre de notre analyse exploratoire, nous allons analyser un jeu de données de la Ville d’Ottawa (https://ouverte.ottawa.ca/datasets/08575ef82f854ce6a2b275adbf06a00f/explore)  venant  du questionnaire détaillé du recensement de 2021. Notre étude portera sur l’enjeu   suivant : les heures de départ de travail pour la ville d’Ottawa. Nous allons ainsi nous demander quelle est l’heure de pointe dans les différents quartiers d’Ottawa? 

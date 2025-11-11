@@ -28,7 +28,11 @@ Insérez votre texte ici.
 
 ## 2. Obtenir les données
 J’ai importé le document contenant les données dans une nouvelle feuille de calcul dans Google Sheets. Une fois l’importation complétée, la feuille a été générée automatiquement. Celle-ci comprend 2 603 lignes et 26 colonnes de A à Z. À première analyse, toutes les données paraissent arrondies à la demi-dizaine, les données apparaissent propres, il n’y a aucun doublon, mais il y a tout de même des espaces blancs en surplus.
- 
+
+ ![jeu de donnée original](<Jeu de donnée original.png>)
+
+https://docs.google.com/spreadsheets/d/1Rkwp3R_odl47SIoTNsi8TdOu9TUpCFzRyJuqffCiZ9Q/edit?usp=sharing
+
 Heure de départ - Variables ordinales (Intervalles de temps)
 Les rangées 2589 à 2595, qui énumèrent les intervalles d’heures de départ, par exemple entre 5 h et 5 h 59 ou encore entre midi et 4 h 59, contiennent des variables ordinales.
 Ces catégories peuvent être organisées dans un ordre logique croissant (du plus tôt au plus tard). Toutefois, les différences entre les groupes ne sont pas nécessairement uniformes.
@@ -97,6 +101,9 @@ Afin de faciliter la navigation dans le jeu de données et d’assurer une véri
 Cette option permet de garder visibles les en-têtes de colonnes et les identifiants de rangée lors du défilement du tableau.
 Cette méthode ne modifie pas les données, mais elle améliore la vérification visuelle de nos données
 
+![Donnée nettoyée page 1](<Donnée nettoyée.png>)
+
+![Donnée nettoyé page 5](<Donnée nettoyée2.png>)
 
 ### 3.3. Analyse exploratoire des données (AED)
 

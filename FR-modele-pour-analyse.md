@@ -98,7 +98,7 @@ Cette méthode ne modifie pas les données, mais elle améliore la vérification
 Nous analyserons ici quelques variables sur les moyens de transport des Ottaviens. Afin de déterminer quelle est l’heure de pointe dans les différents quartiers de la Ville d’Ottawa, nous avons recensé l’heure de départ la plus fréquente pour chacun des quartiers de la ville. Voici les résultats : 
 
 **Tableau croisé**
-![](Tableau croisé dynamique 1.png)<br>
+![](Tableau-croisé-dynamique-1.png)<br>
 *Figure 4 : Ce tableau croisé dynamique montre l'heure de départ la plus fréquente des Ottaviens par quartier.*
 
 **Carte**
@@ -112,7 +112,7 @@ Les gens auraient donc une moins grande distance à parcourir pour se rendre au 
 Ensuite, nous souhaitons explorer à quel point les différents quartiers sont dépendants de l’automobile. En jetant un coup d’oeil rapide au tableau des données du recensement, nous pouvons remarquer que l’automobile est le moyen de transport le plus fréquent dans tous les quartiers, en proportions différentes. Les voici : 
 
 **Tableau croisé**
-![](Tableau croisé dynamique 2.png)<br>
+![](Tableau-croisé-dynamique-2.png)<br>
 *Figure 6 : Ce tableau croisé dynamique montre la proportion d'automobilistes par quartier.*
 
 **Carte**

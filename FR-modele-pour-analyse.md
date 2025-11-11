@@ -1,6 +1,6 @@
-**Date**<br>
-**Cote et nom du cours**<br>
-**Prénom et nom de l'étudiant(e)**<br>
+**11 Novembre 2025**<br>
+**CMN4500-C00 Sujets spéciaux - JOU-A00 Journalisme numérique II**<br>
+**Antoine Fontaine, Jean-Mari Yard, Luna Baczynski**<br>
 **Présenté à Jean-Sébastien Marier**<br>
 
 # Analyse exploratoire de données (AED) et proposition
@@ -30,6 +30,7 @@ Insérez votre texte ici.
 J’ai importé le document contenant les données dans une nouvelle feuille de calcul dans Google Sheets. Une fois l’importation complétée, la feuille a été générée automatiquement. Celle-ci comprend 2 603 lignes et 26 colonnes de A à Z. À première analyse, toutes les données paraissent arrondies à la demi-dizaine, les données apparaissent propres, il n’y a aucun doublon, mais il y a tout de même des espaces blancs en surplus.
 
  ![jeu de donnée original](<Jeu de donnée original.png>)
+ *Figure 1 : Jeu de Donnée original dans Google sheets.*
 
 https://docs.google.com/spreadsheets/d/1Rkwp3R_odl47SIoTNsi8TdOu9TUpCFzRyJuqffCiZ9Q/edit?usp=sharing
 
@@ -49,23 +50,7 @@ Question après avoir examiné les données brutes.
  
 -   Quels sont les secteurs où habitent les fonctionnaires de la fonction publique à Ottawa (centre-ville, banlieue ou zone rurale) ? En outre, quelles sont les tendances en matière d’heures de départ et de temps de trajet quotidien par quartier pour se rendre au travail, ce qui permettrait de déterminer les heures de pointe dans la ville ?
 
-Utilisez deux croisillons (`##`) pour créer un intertitre de niveau 2 comme celui-ci.
 
-Utilisez le modèle de code ci-dessous pour insérer une capture d'écran. Vos images doivent être sauvegardées dans le même dossier que votre fichier `.md`.
-
-![](import-screen-capture.png)<br>
-*Figure 1 : La fenêtre d'importation d'un fichier de Google Feuilles de calcul.*
-
-**Voici quelques exemples de fonctions et de lignes de code mises dans des boîtes grises :**
-
-1. Si vous nommez une fonction, mettez là à l'intérieur de guillemets « inclinés » comme ceci : `IMPORTHTML`.
-1. Si vous voulez inclure une ligne de code complète, faites la même chose, mais avec tout le code : `=IMPORTHTML("https://en.wikipedia.org/wiki/China"; "table", 5)`.
-1. Alternativement, vous pouvez mettre le code dans une boîte indépendante en utilisant le modèle de code ci-dessous :
-
-``` r
-=IMPORTHTML("https://en.wikipedia.org/wiki/China"; "table", 5)
-```
-C'est aussi comme ça qu'on crée une liste ordonnée. Il suffit de mettre `1.` devant chaque item.
 
 ## 3. Comprendre les données
 

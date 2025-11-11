@@ -112,9 +112,9 @@ Insérez votre texte ici.
 
 ## 6. Références
 
-Baldin, N. (2025, October 29). *Why is traffic so bad on Highway 417 in Ottawa?* Ottawa Citizen. Retrieved November 7, 2025, from https://ottawacitizen.com/feature/why-is-traffic-so-bad-on-highway-417-in-ottawa
+Baldin, N. (2025, Octobre 29). *Why is traffic so bad on Highway 417 in Ottawa?* Ottawa Citizen. Consulté Novembre 7, 2025, depuis https://ottawacitizen.com/feature/why-is-traffic-so-bad-on-highway-417-in-ottawa
 
-Côté-Sroka, E. (2024, September 5). *Plus de jours au bureau, mais pas plus d’autobus pour les fonctionnaires.* Radio-Canada. Retrieved November 7, 2025, from https://ici.radio-canada.ca/nouvelle/2102251/retour-bureau-fonctionnaire-oc-transpo-sto-ottawa-gatineau
+Côté-Sroka, E. (2024, Septembre 5). *Plus de jours au bureau, mais pas plus d’autobus pour les fonctionnaires.* Radio-Canada. Consulté Novembre 7, 2025, depuis https://ici.radio-canada.ca/nouvelle/2102251/retour-bureau-fonctionnaire-oc-transpo-sto-ottawa-gatineau
 
 Le groupe des usagers de transport en commun d'Ottawa. (n.d.). *À propos de nous.* https://www.ottawatransitriders.ca/. https://www.ottawatransitriders.ca/about
 

@@ -112,17 +112,35 @@ Cette méthode ne modifie pas les données, mais elle améliore la vérification
 
 ### 3.3. Analyse exploratoire des données (AED)
 
-Insérez votre texte ici.
+Nous analyserons ici quelques variables sur les moyens de transport des Ottaviens. Afin de déterminer quelle est l’heure de pointe dans les différents quartiers de la Ville d’Ottawa, nous avons recensé l’heure de départ la plus fréquente pour chacun des quartiers de la ville. Voici les résultats : 
 
-**Cette section doit inclure une capture d'écran de votre tableau croisé dynamique, comme ceci :**
+**Tableau croisé**
+![](Tableau croisé dynamique 1.png)<br>
+*Figure 4 : Ce tableau croisé dynamique montre l'heure de départ la plus fréquente des Ottaviens par quartier.*
 
-![](pivot-table-screen-capture.png)<br>
-*Figure 2 : Ce tableau croisé dynamique montre...*
+**Carte**
+![](carte-1.png)<br>
+*Figure 5 : Cette carte montre quelle est l'heure de départ la plus fréquente dans les différents quartiers d'Ottawa.*
 
-**Cette section doit aussi inclure une capture d'écran de votre graphique exploratoire, comme ceci :**
+Nous pouvons remarquer qu’à part pour les trois quartiers les plus près du centre-ville et pour Kanata-Nord, l’heure de départ la plus fréquente des Ottaviens est entre 7 h et 7 h 59. J’émets pour l’instant l’hypothèse que la majorité des gens habitants Kanata-Nord y travaillent, en raison du hub de technologie et de recherche qui s’y trouve.
 
-![](chart-screen-capture.png)<br>
-*Figure 3 : Ce graphique exploratoire montre...*
+Les gens auraient donc une moins grande distance à parcourir pour se rendre au travail. Ce pourrait également être le cas pour le centre-ville et ses édifices gouvernementaux et ses sièges sociaux. Le tout est à confirmer dans une analyse plus poussée. Nous pourrions analyser les sections sur l’industrie de travail de la population du jeu de données pour ce faire ou interroger des organisations (syndicats, associations de quartiers) locales.
+
+Ensuite, nous souhaitons explorer à quel point les différents quartiers sont dépendants de l’automobile. En jetant un coup d’oeil rapide au tableau des données du recensement, nous pouvons remarquer que l’automobile est le moyen de transport le plus fréquent dans tous les quartiers, en proportions différentes. Les voici : 
+
+**Tableau croisé**
+![](Tableau croisé dynamique 2.png)<br>
+*Figure 6 : Ce tableau croisé dynamique montre la proportion d'automobilistes par quartier.*
+
+**Carte**
+![](carte-2.png)<br>
+*Figure 7 : Cette carte montre la proportion d'automobilistes par quartier.*
+
+Nous pouvons constater que plus les Ottaviens habitent près du centre-ville, moins ils se déplacent en voiture.
+
+Dans le quartier Sommerset (14) par exemple, c’est environ 40 % de la population qui se déplace en auto. Cette proportion dépasse 93 % dans les quartiers les plus éloignés (5, 20 et 21).
+
+Il pourrait être intéressant de comparer ces données avec l’offre de transport en commun et de pistes cyclables pour trouver quels sont les facteurs qui encourage l’utilisation de l’automobile, du vélo ou de la marche pour se déplacer.
 
 ## 4. Récit potentiel
 
@@ -132,7 +150,7 @@ C’est le cas dans la plupart des quartiers. Cette analyse manque cependant de 
 
 Le jeu de données peut répondre à certaines de ces questions. Nous l’avons vu dans la deuxième analyse sur l’utilisation de l’autombile selon les quartiers. Pour en savoir davantage sur le déroulement de l’heure de pointe, nous pourrions également interroger un chroniqueur à la circulation. Le travail de ces personnes consiste généralement à rapporter les événements qui se produisent sur le réseau routier dans les médias (surtout à la radio) et connaissent donc très bien les habitudes de déplacement des gens de leur région.
 
-L’heure de pointe est également vécue différemment selon si l’on vit au centre-ville ou en périphérie, ou encore si on est un usager du transport en commun ou un automobiliste. Il serait donc intéressant d'interroger des représentants d’association d’usagers du transport en commun comme le groupe des usagers de transport en commun d'Ottawa (Le groupe des usagers de transport en commun d'Ottawa, n.d.) ou encore une association d’un quartier où l’heure de pointe est particulièrement dense pour les automobilistes. À Stitsville par exemple, un automobiliste rapporte dans le Ottawa Citizens devoir attendre jusqu’à 90 minutes dans la circulation sur l’autoroute 417 (Baldin, 2025). Selon cet article, des travaux de construction sur l’autoroute seraient notamment en cause. La qualité du service d’OC Transpo et le retour au bureau des fonctionnaires est également mentionné. On pourrait également questionner des syndicats de fonctionnaires fédéraux. Ces derniers avaient exprimé des craintes lors de l’annonce du retour au bureau trois jours par semaine (Côté-Sroka, 2024) quant aux transports à l’heure de pointe, selon cet article de Radio-Canada.
+L’heure de pointe est également vécue différemment selon si l’on vit au centre-ville ou en périphérie, ou encore si on est un usager du transport en commun ou un automobiliste. Il serait donc intéressant d’intéroger des représentants d’association d’usagers du transport en commun comme [le groupe des usagers de transport en commun d'Ottawa](https://www.ottawatransitriders.ca/about) (Le groupe des usagers de transport en commun d'Ottawa, n.d.) ou encore une association d’un quartier où l’heure de pointe est particulièrement dense pour les automobilistes. À Stitsville par exemple, un automobiliste rapporte dans [le Ottawa Citizens devoir attendre jusqu’à 90 minutes dans la circulation sur l’autoroute 417](https://ottawacitizen.com/feature/why-is-traffic-so-bad-on-highway-417-in-ottawa) (Baldin, 2025). Selon cet article, des travaux de construction sur l’autoroute seraient notamment en cause. La qualité du service d’OC Transpo et le retour au bureau des fonctionnaires est également mentionné. On pourrait également questionner des syndicats de fonctionnaires fédéraux. [Ces derniers avaient exprimé des craintes lors de l’annonce du retour au bureau trois jours par semaine](https://ici.radio-canada.ca/nouvelle/2102251/retour-bureau-fonctionnaire-oc-transpo-sto-ottawa-gatineau) (Côté-Sroka, 2024) quant aux transports à l’heure de pointe, selon cet article de Radio-Canada.
 
 
 ## 5. Conclusion

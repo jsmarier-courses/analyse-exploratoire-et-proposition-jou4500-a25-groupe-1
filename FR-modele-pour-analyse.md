@@ -68,12 +68,12 @@ Comme l'affirme Cairo (2016), une visualisation de données doit être véridiqu
 
 ### 3.2. Nettoyage des données
 
-Méthode 1 : Regroupement (Clustering) dans OpenRefine
+<ins>Méthode 1:</ins> Regroupement (Clustering) dans OpenRefine
 J’ai utilisé la fonction Clustering dans OpenRefine afin de détecter des doublures ou variations orthographiques dans la colonne « Population active selon l’industrie »
 J’ai sélectionné la cellule à nettoyer, puis j’ai choisi l’option Édit cells, ensuite Clusters and edits, et enfin l’option Cluster. Le logiciel a alors affiché le message suivant : « No clusters were found with the selected method. » Cela signifie que les données de cette colonne étaient déjà uniformes et ne contenaient pas de valeurs presque identiques.
 
  
-Méthode 2 : Outil de nettoyage des données dans Google Sheets
+<ins>Méthode 2 :</ins> Outil de nettoyage des données dans Google Sheets
 J’ai utilisé la fonction « donnée », puis « nettoyé les données » dans Google Sheets afin de repérer des doublures, espaces inutiles ou incohérences dans le jeu de données
 L’outil n’a proposé aucune suggestion de nettoyage pour les pages 1, 2 et 4, ce qui indique que ces tableaux étaient déjà bien formatés et cohérents.
 Cependant, les pages 3 (Principal mode transport), 5 (Toutes les professions) et 6 (Population active selon l’industrie) contenaient des cellules avec des espaces blanc.
@@ -81,14 +81,16 @@ Pour régler ce problème, j’ai utilisé la fonction DÉCOUPER, qui permet d�
 Après avoir appliqué cette fonction sur l’ensemble des cellules concernées, les valeurs ont été nettoyées. Cette étape a permis de rendre uniforme les données et de prévenir d’éventuelles erreurs lors de nos prochaines étapes
 J’ai également utilisé l’outil de « statistiques des données » afin de m’assurer qu’aucune erreur n’avait été faite lors des étapes précédentes de nettoyage.
  
-Méthode 3 : Figer les lignes et les colonnes pour faciliter la vérification
+<ins>Méthode 3 :</ins> Figer les lignes et les colonnes pour faciliter la vérification
 Afin de faciliter la navigation dans le jeu de données et d’assurer une vérification exacte, j’ai utilisé la fonction « Affichage ensuite figer 1 ligne et 1 colonne » dans Google Sheets.
 Cette option permet de garder visibles les en-têtes de colonnes et les identifiants de rangée lors du défilement du tableau.
 Cette méthode ne modifie pas les données, mais elle améliore la vérification visuelle de nos données
 
 ![Donnée nettoyée page 1](<Donnée nettoyée.png>)
+*Figure 2 : Page 1 nettoyée .*
 
 ![Donnée nettoyé page 5](<Donnée nettoyée2.png>)
+*Figure 3 : Page 5 nettoyée .*
 
 ### 3.3. Analyse exploratoire des données (AED)
 
@@ -114,8 +116,11 @@ Insérez votre texte ici.
 
 ## 6. Références
 
-Veuillez inclure une liste de vos références ici. Assurez-vous de suivre les [normes APA pour les références](https://apastyle.apa.org/style-grammar-guidelines/references). Les retraits négatifs (*hanging paragraphs*) ne sont pas nécessaires. Le [guide sur l'adaptation APA](https://arts.uottawa.ca/lettres/sites/arts.uottawa.ca.lettres/files/cartu-outils-de-redaction-adaptation-apa.pdf) de l'Université d'Ottawa pourrait également vous être utile.
+Baldin, N. (2025, October 29). *Why is traffic so bad on Highway 417 in Ottawa? Ottawa Citizen.* Retrieved November 7, 2025, from https://ottawacitizen.com/feature/why-is-traffic-so-bad-on-highway-417-in-ottawa
 
-**Voici un exemple :**
+Côté-Sroka, E. (2024, September 5). *Plus de jours au bureau, mais pas plus d’autobus pour les fonctionnaires.* Radio-Canada. Retrieved November 7, 2025, from https://ici.radio-canada.ca/nouvelle/2102251/retour-bureau-fonctionnaire-oc-transpo-sto-ottawa-gatineau
 
-Bounegru, L., & Gray, J. (Eds.). (2021). *The Data Journalism Handbook 2: Towards A Critical Data Practice*. Amsterdam University Press. [https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma991022890087305153](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma991022890087305153)
+Le groupe des usagers de transport en commun d'Ottawa. (n.d.). *À propos de nous.* https://www.ottawatransitriders.ca/. https://www.ottawatransitriders.ca/about
+
+Statistics Canada. (2021, September 2). *4.2 Types de variables.* https://www150.statcan.gc.ca/n1/edu/power-pouvoir/ch8/5214817-fra.htm
+
